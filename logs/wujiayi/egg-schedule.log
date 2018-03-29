@@ -1,0 +1,6 @@
+2018-03-29 12:17:16,301 INFO 40329 [Timer] /Users/yijun/git/wujiayi/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-03-30 00:00:00.000
+2018-03-29 12:17:16,301 INFO 40329 [Timer] /Users/yijun/git/wujiayi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-03-30 00:00:01.000
+2018-03-29 12:18:34,136 INFO 40446 [Timer] /Users/yijun/git/wujiayi/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-03-30 00:00:00.000
+2018-03-29 12:18:34,136 INFO 40446 [Timer] /Users/yijun/git/wujiayi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-03-30 00:00:01.000
+2018-03-29 12:33:09,638 INFO 41201 [Timer] /Users/yijun/git/wujiayi/node_modules/egg-logrotator/app/schedule/clean_log.js next time will execute at 2018-03-30 00:00:00.000
+2018-03-29 12:33:09,639 INFO 41201 [Timer] /Users/yijun/git/wujiayi/node_modules/egg-logrotator/app/schedule/rotate_by_file.js next time will execute at 2018-03-30 00:00:01.000

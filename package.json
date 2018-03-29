@@ -1,0 +1,29 @@
+{
+  "name": "wujiayi",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "egg-bin dev --port=8083",
+    "start": "egg-scripts start --daemon --port=7000",
+    "stop": "egg-scripts stop"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hyj1991/wujiayi.git"
+  },
+  "author": "hyj1991",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hyj1991/wujiayi/issues"
+  },
+  "homepage": "https://github.com/hyj1991/wujiayi#readme",
+  "dependencies": {
+    "egg": "^2.5.0",
+    "egg-scripts": "^2.5.1",
+    "egg-view-ejs": "^2.0.0"
+  },
+  "devDependencies": {
+    "egg-bin": "^4.1.0"
+  }
+}
