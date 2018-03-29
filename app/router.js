@@ -3,5 +3,5 @@
 module.exports = app => {
   const { controller, router } = app;
 
-  router.get('home', '/', controller.home.index);
+  router.get('*', controller.home.index);
 };
