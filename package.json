@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "dev": "egg-bin dev --port=8083",
+    "dev": "egg-bin dev --port=7000",
     "start": "egg-scripts start --daemon --port=7000",
     "stop": "egg-scripts stop"
   },
