@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "dev": "egg-bin dev --port=7000",
-    "start": "egg-scripts start --daemon --port=7000",
+    "start": "ENABLE_NODE_LOG=YES NODE_LOG_DIR=/tmp/  egg-scripts start --daemon --port=7000",
     "stop": "egg-scripts stop"
   },
   "repository": {
